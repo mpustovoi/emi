@@ -77,6 +77,9 @@
   "emi.recipe_book_action.default": "По умолчанию",
   "emi.recipe_book_action.toggle_craftables": "Переключение создаваемых",
   "emi.recipe_book_action.toggle_visibility": "Переключение видимости",
+  "emi.button_visibility.auto": "Автоматически",
+  "emi.button_visibility.shown": "Показана",
+  "emi.button_visibility.hidden": "Скрыта",
   
   "config.emi.group.general": "Основное",
   "config.emi.group.general.search": "Поиск",
@@ -150,6 +153,8 @@
   "config.emi.ui.miscraft_prevention": "Предотвращение случайных крафтов",
   "config.emi.ui.fluid_unit": "Единицы измерения жидкостей",
   "config.emi.ui.show_cost_per_batch": "Показывать цену за несколько",
+  "config.emi.ui.emi_config_button_visibility": "Видимость кнопки настроек EMI",
+  "config.emi.ui.recipe_tree_button_visibility": "Видимость кнопки дерева рецептов",
   "config.emi.ui.recipe_default_button": "Сделать стандартным",
   "config.emi.ui.recipe_tree_button": "Открыть дерево",
   "config.emi.ui.recipe_fill_button": "Заполнить рецепт",
